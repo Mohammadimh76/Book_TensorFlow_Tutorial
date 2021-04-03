@@ -1,4 +1,4 @@
-# Book_TensorFlow_Tutorial(🔸Release March,2021)
+# Book_TensorFlow_Tutorial
 
 ---
 
