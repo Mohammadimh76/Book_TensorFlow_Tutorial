@@ -20,7 +20,7 @@ There are many reasons why gray spectrum images on a computer are usually stored
 | <b>Publisher</b>    |   [Arna](http://arnapub.com/)  |
 | <b>First Printing Edition</b>    |   Mar,2021  |
 | <b>Print Length</b>    |  394   |
-| <b>ISBN</b>    |  ‫‬‭‬‭978-622-291-016-7   |
+| <b>[ISBN](http://opac.nlai.ir/opac-prod/search/briefListSearch.do?command=FULL_VIEW&id=7545636&pageStatus=2&sortKeyValue1=sortkey_title&sortKeyValue2=sortkey_author)</b>    |  [‫‬‭‬‭978-622-291-016-7](http://opac.nlai.ir/opac-prod/search/briefListSearch.do?command=FULL_VIEW&id=7545636&pageStatus=2&sortKeyValue1=sortkey_title&sortKeyValue2=sortkey_author)   |
 
 ---
 
