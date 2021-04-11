@@ -13,14 +13,14 @@ There are many reasons why gray spectrum images on a computer are usually stored
 | Front Book Cover  | Back Book Cover  |
 |-----------|--------------------|
 |<p><img src="https://raw.githubusercontent.com/Mohammadimh76/Book_TensorFlow_Tutorial/main/Cover/Front_TensorFlow.jpeg"></p>|<p><img src="https://raw.githubusercontent.com/Mohammadimh76/Book_TensorFlow_Tutorial/main/Cover/Back_TensorFlow.jpeg"></p>|
-|  <b>Book Name</b>   |   CEH(Certified Ethical Hacker)  |
+|  <b>Book Name</b>   |   TensorFlow Tutorial  |
 | <b>Authors</b>    |   M.H.Mohammadi, S.Y.Moradi |
 | <b>language</b>    |  Persian   |
 | <b>Printed in the</b>    |  IRAN   |
-| <b>Publisher</b>    |   ...  |
-| <b>First Printing Edition</b>    |   ...  |
-| <b>Print Length</b>    |  ...   |
-| <b>ISBN</b>    |  978-600-...-...-.   |
+| <b>Publisher</b>    |   [Arna Publication](http://arnapub.com/)  |
+| <b>First Printing Edition</b>    |   Mar,2021  |
+| <b>Print Length</b>    |  394   |
+| <b>ISBN</b>    |  ‫‬‭‬‭978-622-291-016-7   |
 
 ---
 
