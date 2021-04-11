@@ -44,6 +44,7 @@ There are many reasons why gray spectrum images on a computer are usually stored
 
 🔸 [Authors](#authors)<br>
 🔸 [Demo](#demo)<br>
+🔸 [Buy](#buy)<br>
 🔸 [BookCollection](#bookcollection)<br>
 
 </div>
@@ -321,6 +322,20 @@ I am Biomedical Engineer from University of Isfahan. My research interests is No
 </article>
 
 ---
+
+<article id="buy">
+
+## 🛒Buy
+
+| Amazon (Kindle Edition) | Taaghche  |
+|-----------|--------------------|
+| <p align="center"><img width="250" height="75" src="https://raw.githubusercontent.com/Mohammadimh76/Book_AStepByStepGuidetoPatentingInIran/main/Stores_logo/Amazon_logo.svg.png"></p> | [<p align="center"><img width="250" height="86" src="https://raw.githubusercontent.com/Mohammadimh76/Book_AStepByStepGuidetoPatentingInIran/main/Stores_logo/Taaghche_logo.jpg"></p>](https://taaghche.com/book/94873/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%AA%D9%86%D8%B3%D9%88%D8%B1%D9%81%D9%84%D9%88) |
+
+
+</article>
+
+---
+
 
 ## BookCollection
 
