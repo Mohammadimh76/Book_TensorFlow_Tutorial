@@ -17,7 +17,7 @@ There are many reasons why gray spectrum images on a computer are usually stored
 | <b>Authors</b>    |   M.H.Mohammadi, S.Y.Moradi |
 | <b>language</b>    |  Persian   |
 | <b>Printed in the</b>    |  IRAN   |
-| <b>Publisher</b>    |   [Arna Publication](http://arnapub.com/)  |
+| <b>Publisher</b>    |   [Arna](http://arnapub.com/)  |
 | <b>First Printing Edition</b>    |   Mar,2021  |
 | <b>Print Length</b>    |  394   |
 | <b>ISBN</b>    |  ‫‬‭‬‭978-622-291-016-7   |
