@@ -316,7 +316,7 @@ I am Biomedical Engineer from University of Isfahan. My research interests is No
 
 👇Click on the link below to see the E-Book Demo!👇😉
 
-## (E-Book Demo): 🔺(Coming Soon)🔺
+## [(E-Book Demo)](https://github.com/Mohammadimh76/Book_TensorFlow_Tutorial/blob/main/E-Book_Demo/E-Book_Demo.pdf)
 
 
 </article>
